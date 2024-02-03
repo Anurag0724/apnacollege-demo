@@ -1,3 +1,3 @@
 # apnacollege-demo
 this is my first github Repository<br>
-author - Anurag Nilawar
+author - Anurag Nilawar(Anya)
